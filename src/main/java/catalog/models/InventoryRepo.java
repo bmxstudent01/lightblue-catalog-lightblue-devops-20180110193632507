@@ -1,4 +1,4 @@
-package catalog;
+package catalog.models;
 
 import java.util.List;
 import javax.transaction.Transactional;
